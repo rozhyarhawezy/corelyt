@@ -58,7 +58,8 @@ Corelyt is a highly secure, modern, and user-friendly web application built to m
 - Linear regression for salary prediction  
 - PDF/Text parsing for CVs  
 
-## Authors: Anas abdulrahman - Rozhyar Hawezy
+---
+### Authors: Anas abdulrahman - Rozhyar Hawezy
 
 ## Here are a few screenshots of the project:
 ![My Picture](screenshots/1.png)
