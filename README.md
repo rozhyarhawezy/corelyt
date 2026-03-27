@@ -59,7 +59,7 @@ Corelyt is a highly secure, modern, and user-friendly web application built to m
 - PDF/Text parsing for CVs  
 
 ---
-### Authors: Anas abdulrahman - Rozhyar Hawezy
+### Authors: Anas Abdulrahman - Rozhyar Hawezy
 
 ## Here are a few screenshots of the project:
 ![My Picture](screenshots/1.png)
